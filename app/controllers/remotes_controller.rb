@@ -1,0 +1,2 @@
+class RemotesController < ApplicationController
+end
